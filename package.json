@@ -1,0 +1,27 @@
+{
+  "name": "@etfdev/prettier-config",
+  "version": "0.1.0",
+  "description": "A collection of Prettier rules",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint-config-prettier": "^8.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "stylelint-check": "stylelint-config-prettier-check",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericfledderman/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Eric Fledderman <ericfledderman@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericfledderman/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ericfledderman/prettier-config#readme"
+}
